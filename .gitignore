@@ -1,0 +1,4 @@
+app/models/*.csv
+feeder-master-db/*.csv
+postgres/.initdb/*.csv
+.env
